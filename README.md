@@ -31,6 +31,8 @@ Quickly preview your motion data using Rerun's 3D visualization (G1 robot only):
 python src/scripts/rerun_visualize.py --file-name data/lafang_original/fight1_subject2.csv 
 ```
 
+Replace with your filename.
+
 ### 2. Crop Motion by Time
 
 Extract a specific time segment from your motion data:
