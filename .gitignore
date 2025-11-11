@@ -92,12 +92,9 @@ Thumbs.db
 uv.lock
 
 # Data and outputs
-data/
 renders/
 
 # Ignore CSV and NPZ inside data/renders for privacy, allow tracked test files
-data/**/*.csv
-data/**/*.npz
 renders/*.mp4
 
 # Allow sample/example data specifically tracked (uncomment as needed)
