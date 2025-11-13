@@ -11,5 +11,4 @@ dependencies = [
 
 [tool.uv.sources]
 mjlab = { git = "https://github.com/mujocolab/mjlab" }
-mujoco-warp = { git = "https://github.com/google-deepmind/mujoco_warp", rev = "fb9bf88399796f161a4a2b129d846484da8a4ad0" }
 
