@@ -1,25 +1,19 @@
 ## Installation
 
-1. Clone mjlab:
-
-```bash
-git clone https://github.com/mujocolab/mjlab
-```
-
-2. Clone this repo:
+1. Clone this repo:
 
 ```bash
 git clone https://github.com/DavidDobas/mjlab_setup
 cd mjlab_setup
 ```
 
-3. Install dependencies using uv sync (assuming mjlab is now in `../mjlab`):
+2. Install dependencies using uv sync (assuming mjlab is now in `../mjlab`):
 
 ```bash
 uv sync
 ```
 
-4. Download the required csv data from [this Google Drive folder](https://drive.google.com/drive/folders/1-qpHdq5N7E0VBkaaI3MC79NhmSKjYmnt?usp=sharing) - we provide sample in `data/lafang_original`
+3. Download the required csv data from [this Google Drive folder](https://drive.google.com/drive/folders/1-qpHdq5N7E0VBkaaI3MC79NhmSKjYmnt?usp=sharing) - we provide sample in `data/lafang_original`
 
 ## Data Processing Workflow
 
