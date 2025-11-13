@@ -104,3 +104,6 @@ renders/*.mp4
 artifacts/
 wandb/
 logs/
+
+data/*
+!data/data_original/

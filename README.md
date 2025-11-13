@@ -28,7 +28,7 @@ uv sync
 Quickly preview your motion data using Rerun's 3D visualization (G1 robot only):
 
 ```bash
-python src/scripts/rerun_visualize.py --file-name data/lafang_original/fight1_subject2.csv 
+python src/scripts/rerun_visualize.py --file_name data/lafang_original/fight1_subject2.csv 
 ```
 
 Replace with your filename.
